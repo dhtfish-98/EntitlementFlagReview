@@ -1,0 +1,30 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": "EntitlementFlagReview",
+  "author": "dhtfish98",
+  "kind": "manual",
+  "base_public_commit": "f25d7ae06242d45f109384c05219f82a4421bc34",
+  "restored_inputs": [
+    {
+      "original": "LICENSE",
+      "stored": "项目文档/LICENSE",
+      "sha256": "61cc81f0067016c9425160ac683a0791c1f9332a48ffe655d21b2602286e21be"
+    },
+    {
+      "original": "ORIGIN.md",
+      "stored": "项目文档/ORIGIN.md",
+      "sha256": "61dd3df8673fe1bff596942d42d97c5b18cae69648e4b53ce84b024aa7744f32"
+    },
+    {
+      "original": "README.md",
+      "stored": "项目文档/README.md",
+      "sha256": "e4fb8cc0a991c522dd9f5a80899796153efec6b1ae5d3a9c74720bee5b355cbf"
+    },
+    {
+      "original": "VALIDATION.md",
+      "stored": "项目文档/VALIDATION.md",
+      "sha256": "0bb007b241bf2a5f3d04aaf65b60a2b8818c08626a89507416465efedc504d5e"
+    }
+  ],
+  "platform_entries": []
+}
